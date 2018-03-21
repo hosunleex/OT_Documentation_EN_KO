@@ -1,0 +1,41 @@
+Computer Assisted Translation	컴퓨터보조번역
+interface	인터페이스
+RTL	우횡서
+LTR	좌횡서
+Java Web Start	Java Web Start
+highlights	요점
+final product	최종 생성물
+attributes	속성
+Note	주	註
+optical character recognition	광학 문자 인식
+Right to left	우횡서
+left to right	좌횡서
+place holders	자리 표시자
+GoTo	이동
+Go To	이동
+Regex	정규식
+cross-platform	교차 플랫폼
+pane	틀
+separator	구분대
+no match	일치 없음
+annotation	주해(註解)
+Exact match	완전 일치
+counts	집계
+documentation	문서화
+Manual	설명서
+collaboration	협업
+version control	버전 관리
+repository	저장소
+stem word	어간
+naming	명명
+numbering	번호지정
+opening tag	여는 태그
+closing tag	닫는 태그
+err on the side of caution	지나치게 조심하다
+stop words	불용어
+writing system	문자
+form-feed character	용지 먹임 문자
+stand-alone	독립형
+Replace with	바꿀 내용
+NB	주의	nota bene
+filename	파일명
