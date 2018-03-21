@@ -43311,6 +43311,16 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If this is what you want to do, use the GNU Library General
+Public License instead of this License.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071949Z" creationid="hosunleex@gmail.com" creationdate="20180321T071949Z">
+        <seg>If this is what you want to do, use the GNU Library General
+Public License instead of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180318T100104Z" creationid="hosunleex@gmail.com" creationdate="20180302T112511Z">
@@ -57511,6 +57521,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072048Z" creationid="hosunleex@gmail.com" creationdate="20180321T072048Z">
+        <seg>&lt;u5&gt;FAQ &lt;/u5&gt;는 혹시 있을지 모르는 질문에 대한 좋은 출발점입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The Add Finished!</seg>
       </tuv>
       <tuv lang="KO">
@@ -60449,6 +60467,14 @@ freedom to share and change it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072034Z" creationid="hosunleex@gmail.com" creationdate="20180321T072034Z">
+        <seg>바로 가기 정의 구문은 &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;과 같으며 여기서 &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt;는  아래 표에서 가져온 코드이고 &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt;은 사용자가 지정한 키 조합입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;s1&gt;&lt;e2&gt;&lt;menu item code&gt;&lt;/e2&gt;&lt;/s1&gt; is a code taken from the tables below and &lt;s3&gt;&lt;e4&gt;&lt;shortcut&gt;&lt;/e4&gt;&lt;/s3&gt; is a combination of pressed keys specified by the user&lt;a5&gt;&lt;s6&gt;[2]&lt;/s6&gt;&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180314T122038Z" creationid="hosunleex@gmail.com" creationdate="20180302T114659Z">
@@ -62799,6 +62825,14 @@ using it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071938Z" creationid="hosunleex@gmail.com" creationdate="20180321T071938Z">
+        <seg>따라서 캐나다 프랑스어를 번역할 때 캐나다 프랑스어에 대한 규칙(있는 경우)이 먼저 적용되고 프랑스어 규칙이 적용되고 마지막으로 기본 규칙이 적용됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180314T060418Z" creationid="hosunleex@gmail.com" creationdate="20180314T060418Z">
@@ -65026,8 +65060,8 @@ using it.</seg>
       <tuv lang="EN-GB">
         <seg>Using keyword search with &lt;s0&gt;&lt;e1&gt;&lt;c2&gt;open file&lt;/c2&gt;&lt;/e1&gt;&lt;/s0&gt; will thus find all occurrences of the string &lt;s3&gt;&lt;e4&gt;&lt;c5&gt;open file&lt;/c5&gt;,&lt;/e4&gt;&lt;/s3&gt; as well as &lt;s6&gt;&lt;e7&gt;&lt;c8&gt;file opened&lt;/c8&gt;, &lt;c9&gt;open input file&lt;/c9&gt;, &lt;c10&gt;file may not be safe to open&lt;/c10&gt;&lt;/e7&gt;&lt;/s6&gt;, etc.</seg>
       </tuv>
-      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071804Z" creationid="hosunleex@gmail.com" creationdate="20180321T071804Z">
-        <seg>따라서 &lt;s0&gt;&lt;e1&gt;&lt;c2&gt;open file&lt;/c2&gt;&lt;/e1&gt;&lt;/s0&gt;로 키워드 검색을 사용하면 &lt;s3&gt;&lt;e4&gt;&lt;c5&gt;open file&lt;/c5&gt;,&lt;/e4&gt;&lt;/s3&gt;과 &lt;s6&gt;&lt;e7&gt;&lt;c8&gt;file opened&lt;/c8&gt;, &lt;c9&gt;open input file&lt;/c9&gt;, &lt;c10&gt;file may not be safe to open&lt;/c10&gt;&lt;/e7&gt;&lt;/s6&gt; 등을 모두 찾을 수 있습니다.</seg>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071838Z" creationid="hosunleex@gmail.com" creationdate="20180321T071804Z">
+        <seg>따라서 &lt;s0&gt;&lt;e1&gt;&lt;c2&gt;open file&lt;/c2&gt;&lt;/e1&gt;&lt;/s0&gt;로 키워드 검색을 사용하면 &lt;s3&gt;&lt;e4&gt;&lt;c5&gt;open file&lt;/c5&gt;,&lt;/e4&gt;&lt;/s3&gt;, &lt;s6&gt;&lt;e7&gt;&lt;c8&gt;file opened&lt;/c8&gt;, &lt;c9&gt;open input file&lt;/c9&gt;, &lt;c10&gt;file may not be safe to open&lt;/c10&gt;&lt;/e7&gt;&lt;/s6&gt; 등을 모두 찾을 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65812,6 +65846,16 @@ using it.</seg>
       </tuv>
       <tuv lang="KO">
         <seg>외부 서비스를 사용 하는 경우 가능한 알고 있어야&lt;e1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>When we speak of free software, we are referring to freedom, not
+price.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071945Z" creationid="hosunleex@gmail.com" creationdate="20180321T071945Z">
+        <seg>When we speak of free software, we are referring to freedom, not
+price.</seg>
       </tuv>
     </tu>
     <tu>
