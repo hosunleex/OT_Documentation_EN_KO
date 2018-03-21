@@ -3512,8 +3512,16 @@ your programs, too.</seg>
       <tuv lang="EN-GB">
         <seg>&lt;&lt;c0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071224Z" creationid="hosunleex@gmail.com" creationdate="20180321T071224Z">
-        <seg>&lt;추적 작업 및 오류에 관한 &lt;c0&gt;로그 파일(&lt;b0&gt;log.txt&lt;/b0&gt;).&lt;segment 3167&gt;&lt;/c0&gt;</seg>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072240Z" creationid="hosunleex@gmail.com" creationdate="20180321T071224Z">
+        <seg>&lt;&lt;c0&gt;추적 작업 및 오류에 관한 로그 파일(&lt;b0&gt;log.txt&lt;/b0&gt;).&lt;세그먼트 3167&gt;&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072217Z" creationid="hosunleex@gmail.com" creationdate="20180321T072134Z">
+        <seg>&lt;&lt;l0&gt;추적 작업 및 오류에 관한 로그 파일(&lt;b0&gt;log.txt&lt;/b0&gt;).&lt;세그먼트3167&gt;&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33400,6 +33408,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072341Z" creationid="hosunleex@gmail.com" creationdate="20180321T072341Z">
+        <seg>프로젝트에 이름을 부여하면, &lt;g0&gt;새 프로젝트 만들기&lt;/g0&gt; 대화상자가 열릴 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>After you give your project a name, the &lt;s0&gt;Create New Project&lt;/s0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180319T115509Z" creationid="hosunleex@gmail.com" creationdate="20180302T114557Z">
@@ -63097,6 +63113,14 @@ using it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072326Z" creationid="hosunleex@gmail.com" creationdate="20180321T072326Z">
+        <seg>태그를 사용하여 작업을 사용자 지정하려면 &lt;g0&gt;옵션 &gt; 태그 유효성 검사...&lt;/g0&gt;창에서 일부 규칙을 설정할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>To customize the work with tags, one can set down some of the rules in the &lt;s0&gt;Options &gt; Tag validation...&lt;/s0&gt; window:</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180315T101138Z" creationid="hosunleex@gmail.com" creationdate="20180302T112511Z">
@@ -63497,6 +63521,14 @@ using it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072353Z" creationid="hosunleex@gmail.com" creationdate="20180321T072353Z">
+        <seg>프로젝트 초기 설정을 상기시키기 위해 프로젝트 속성 대화상자 상자를 열려면 &lt;k0&gt;Ctrl+E&lt;/k0&gt;를 누르세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;s0&gt;&lt;s1&gt;Ctrl+E&lt;/s1&gt;&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180309T061212Z" creationid="hosunleex@gmail.com" creationdate="20180302T114557Z">
@@ -63541,6 +63573,14 @@ using it.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180316T013101Z" creationid="hosunleex@gmail.com" creationdate="20180302T112941Z">
         <seg>OmegaT를 실행하려면 유효한 OmegaT 프로젝트가 있어야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T072857Z" creationid="hosunleex@gmail.com" creationdate="20180321T072857Z">
+        <seg>프로젝트 파일 목록을 보기 위해, &lt;g1&gt;프로젝트 파일&lt;/g1&gt; 대화상자를 열려면 &lt;k2&gt;Ctrl+L&lt;/k2&gt;를 누르세요.</seg>
       </tuv>
     </tu>
     <tu>
