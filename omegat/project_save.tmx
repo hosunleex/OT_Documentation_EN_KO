@@ -30335,6 +30335,22 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073334Z" creationid="hosunleex@gmail.com" creationdate="20180321T073334Z">
+        <seg>&lt;p0&gt;OmegaT 실행&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;INI file&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073435Z" creationid="hosunleex@gmail.com" creationdate="20180321T073435Z">
+        <seg>&lt;p0&gt;OmegaT 실행&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;INI 파일&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180319T021058Z" creationid="hosunleex@gmail.com" creationdate="20180319T021058Z">
@@ -40253,6 +40269,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073224Z" creationid="hosunleex@gmail.com" creationdate="20180321T073224Z">
+        <seg>더 포괄적인 소개는 OmegaT 웹사이트의 &lt;u0&gt;OmegaT for beginners&lt;/u0&gt;를 참조하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180309T020346Z" creationid="hosunleex@gmail.com" creationdate="20180302T114659Z">
@@ -43745,6 +43769,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073240Z" creationid="hosunleex@gmail.com" creationdate="20180321T073240Z">
+        <seg>모든 면에서 OmegaT에 대한 지원이 필요하다면, &lt;u1&gt;OmegaT 사용자 그룹&lt;/u1&gt;에 참가하세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>If you need non-standard settings, the corresponding configuration files (&lt;c0&gt;filters.conf&lt;/c0&gt; and &lt;c1&gt;segmentation.conf&lt;/c1&gt;) must be present.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180316T013229Z" creationid="hosunleex@gmail.com" creationdate="20180302T111423Z">
@@ -45865,6 +45897,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073205Z" creationid="hosunleex@gmail.com" creationdate="20180321T073205Z">
+        <seg>언제든지 &lt;k0&gt;Ctrl+F&lt;/k0&gt;를 눌러 &lt;g1&gt;텍스트 검색&lt;/g1&gt; 대화상자 상자에서.원본 텍스트 및 번역의 단어와 구를 검색하는데 유용합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; for the &lt;s2&gt;Text Search&lt;/s2&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180309T061212Z" creationid="hosunleex@gmail.com" creationdate="20180302T111155Z">
@@ -46773,6 +46813,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="KO">
         <seg>마지막으로,&lt;g8&gt; 필터 &lt;/g8&gt;를 사용 하 여 시각화만 플래그가 지정 된&lt;g9&gt; &lt;/g9&gt;세그먼트.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073326Z" creationid="hosunleex@gmail.com" creationdate="20180321T073326Z">
+        <seg>나중에 라이선스 계약에 동의하면, 설치 프로그램은 &lt;e0&gt;시작&lt;/e0&gt; 메뉴에 폴더를 만들지 여부와 바탕 화면과 빠른 실행 표시줄에 바로 가기를 만들지 여부를 묻는데, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt;를 바탕 화면이나 시작 메뉴로 드래그하여 나중에 이 바로 가기를 만들 수 있습니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50553,6 +50601,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073420Z" creationid="hosunleex@gmail.com" creationdate="20180321T073420Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;가 설치되면 &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt;를 클릭하여 직접 실행하거나 명령줄에서 직접 시작할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Once &lt;s0&gt;OmegaT&lt;/s0&gt; is installed, you can click on &lt;s1&gt;&lt;e2&gt;&lt;s3&gt;OmegaT&lt;/s3&gt;.jar&lt;/e2&gt;&lt;/s1&gt; to launch it directly or you can launch it directly from the command line.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180312T070045Z" creationid="hosunleex@gmail.com" creationdate="20180302T112941Z">
@@ -53477,6 +53533,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180312T102954Z" creationid="hosunleex@gmail.com" creationdate="20180302T112941Z">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;를 (GUI를 사용하여) 정상적으로 실행하고 설정을 지정하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Running &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073341Z" creationid="hosunleex@gmail.com" creationdate="20180321T073341Z">
+        <seg>&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt; 실행</seg>
       </tuv>
     </tu>
     <tu>
@@ -60559,6 +60623,14 @@ freedom to share and change it.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180319T015907Z" creationid="hosunleex@gmail.com" creationdate="20180302T125855Z">
         <seg>바로 가기 &lt;s4&gt;&lt;s5&gt;Ctrl+A&lt;/s5&gt;&lt;/s4&gt; 및 &lt;s6&gt;&lt;s7&gt;Ctrl+C&lt;/s7&gt;&lt;/s6&gt;는 틀에서 작동하므로 정보의 일부 또는 전부를 클립보드에 복사할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The simplest way to launch OmegaT, however, is to execute the&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; program.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T073502Z" creationid="hosunleex@gmail.com" creationdate="20180321T073502Z">
+        <seg>The simplest way to launch OmegaT, however, is to execute the&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; program.</seg>
       </tuv>
     </tu>
     <tu>
