@@ -31200,6 +31200,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>&lt;s0&gt;&lt;s1&gt;Dictionaries, Glossaries&lt;/s1&gt;&lt;/s0&gt;, &lt;s2&gt;&lt;s3&gt;Machine translation&lt;/s3&gt;&lt;/s2&gt; , &lt;s4&gt;&lt;s5&gt;Spellchecker, LanguageTool:&lt;/s5&gt;&lt;/s4&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071043Z" creationid="hosunleex@gmail.com" creationdate="20180321T071043Z">
+        <seg>&lt;s0&gt;&lt;s1&gt;사전, 용어집&lt;/s1&gt;&lt;/s0&gt;, &lt;s2&gt;&lt;s3&gt;기계번역&lt;/s3&gt;&lt;/s2&gt; , &lt;s4&gt;&lt;s5&gt;맞춤법 검사기, LanguageTool:&lt;/s5&gt;&lt;/s4&gt; OmegaT는 사전 및 용어집의 확장된 사용을 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>&lt;s0&gt;&lt;s1&gt;Display: all matching segments: &lt;/s1&gt;&lt;/s0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180319T073750Z" creationid="hosunleex@gmail.com" creationdate="20180302T111423Z">
@@ -32060,6 +32068,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180315T105742Z" creationid="hosunleex@gmail.com" creationdate="20180302T112941Z">
         <seg>&lt;s2&gt;OmegaT&lt;/s2&gt;는 프로젝트가 열릴 때 이 폴더의 용어집 파일을 자동으로 검색합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T070908Z" creationid="hosunleex@gmail.com" creationdate="20180321T070908Z">
+        <seg>&lt;shortcut&gt;은 다음과 같은 형식이어야 합니다. 0개 이상의 &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt;에 이어 0개나 1개의 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt;에 이어 1개의 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;가 있으며 이 경우where:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46247,6 +46263,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T070734Z" creationid="hosunleex@gmail.com" creationdate="20180321T070734Z">
+        <seg>당신의 수고를 계속하길!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Key behavior in the editor</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180319T023256Z" creationid="user" creationdate="20180130T062309Z">
@@ -57283,6 +57307,14 @@ software--to make sure the software is free for all its users.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180315T133503Z" creationid="hosunleex@gmail.com" creationdate="20180302T114218Z">
         <seg>&lt;a0&gt;제2.2항, “유사일치틀”&lt;/a0&gt;은 컬러 코딩에 대해 설명합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The &lt;a5&gt;FAQ &lt;/a5&gt; is a good starting point for finding answers to questions you may have.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T070947Z" creationid="hosunleex@gmail.com" creationdate="20180321T070947Z">
+        <seg>&lt;a5&gt;FAQ &lt;/a5&gt;는 혹시 있을지 모르는 질문에 대한 좋은 출발점입니다.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74460,6 +74492,14 @@ using it.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180315T015253Z" creationid="hosunleex@gmail.com" creationdate="20180302T112511Z">
         <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T070738Z" creationid="hosunleex@gmail.com" creationdate="20180321T070738Z">
+        <seg>or</seg>
       </tuv>
     </tu>
     <tu>
