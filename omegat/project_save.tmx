@@ -40221,6 +40221,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For a more comprehensive introduction see &lt;a0&gt;OmegaT for beginners&lt;/a0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071510Z" creationid="hosunleex@gmail.com" creationdate="20180321T071510Z">
+        <seg>더 포괄적인 소개는 OmegaT 웹사이트의 &lt;a0&gt;OmegaT for beginners&lt;/a0&gt;를 참조하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180309T020346Z" creationid="hosunleex@gmail.com" creationdate="20180302T114659Z">
@@ -53927,6 +53935,14 @@ software--to make sure the software is free for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Searching for &lt;c0&gt;open file&lt;/c0&gt; will thus find all occurrences of the string &lt;s1&gt;&lt;e2&gt;&lt;c3&gt;open file&lt;/c3&gt;&lt;/e2&gt;&lt;/s1&gt;, but not &lt;s4&gt;&lt;e5&gt;&lt;c6&gt;file opened&lt;/c6&gt;&lt;/e5&gt;&lt;/s4&gt; or &lt;s7&gt;&lt;e8&gt;&lt;c9&gt;open input file&lt;/c9&gt;&lt;/e8&gt;&lt;/s7&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071655Z" creationid="hosunleex@gmail.com" creationdate="20180321T071655Z">
+        <seg>따라서 &lt;c0&gt;open file&lt;/c0&gt;로 검색하면 &lt;s1&gt;&lt;e2&gt;&lt;c3&gt;open file&lt;/c3&gt;&lt;/e2&gt;&lt;/s1&gt; 문자열을 모두 찾을 수 있지만 &lt;s4&gt;&lt;e5&gt;&lt;c6&gt;file opened&lt;/c6&gt;&lt;/e5&gt;&lt;/s4&gt;나 &lt;s7&gt;&lt;e8&gt;&lt;c9&gt;open input file&lt;/c9&gt;&lt;/e8&gt;&lt;/s7&gt;은 제외됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Searching&lt;e1/&gt;</seg>
       </tuv>
       <tuv lang="KO">
@@ -65008,6 +65024,14 @@ using it.</seg>
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Using keyword search with &lt;s0&gt;&lt;e1&gt;&lt;c2&gt;open file&lt;/c2&gt;&lt;/e1&gt;&lt;/s0&gt; will thus find all occurrences of the string &lt;s3&gt;&lt;e4&gt;&lt;c5&gt;open file&lt;/c5&gt;,&lt;/e4&gt;&lt;/s3&gt; as well as &lt;s6&gt;&lt;e7&gt;&lt;c8&gt;file opened&lt;/c8&gt;, &lt;c9&gt;open input file&lt;/c9&gt;, &lt;c10&gt;file may not be safe to open&lt;/c10&gt;&lt;/e7&gt;&lt;/s6&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071804Z" creationid="hosunleex@gmail.com" creationdate="20180321T071804Z">
+        <seg>따라서 &lt;s0&gt;&lt;e1&gt;&lt;c2&gt;open file&lt;/c2&gt;&lt;/e1&gt;&lt;/s0&gt;로 키워드 검색을 사용하면 &lt;s3&gt;&lt;e4&gt;&lt;c5&gt;open file&lt;/c5&gt;,&lt;/e4&gt;&lt;/s3&gt;과 &lt;s6&gt;&lt;e7&gt;&lt;c8&gt;file opened&lt;/c8&gt;, &lt;c9&gt;open input file&lt;/c9&gt;, &lt;c10&gt;file may not be safe to open&lt;/c10&gt;&lt;/e7&gt;&lt;/s6&gt; 등을 모두 찾을 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180318T092902Z" creationid="hosunleex@gmail.com" creationdate="20180302T125516Z">
@@ -70676,6 +70700,14 @@ using it.</seg>
       </tuv>
       <tuv lang="KO">
         <seg>등반</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hosunleex@gmail.com" changedate="20180321T071521Z" creationid="hosunleex@gmail.com" creationdate="20180321T071521Z">
+        <seg>프로젝트를 닫습니다.</seg>
       </tuv>
     </tu>
     <tu>
